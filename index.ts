@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-// SHABANG
+// (SHABANG) this is use to run on cmd by command npx name 
 
 import inquirer from "inquirer";
 
