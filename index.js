@@ -1,5 +1,9 @@
 #! /usr/bin/env node
+<<<<<<< HEAD
 // (SHABANG) this is use to run on cmd by command npx name 
+=======
+// SHABANG
+>>>>>>> 55949c151209ad05f0dfa39051f573f6d7a0c84f
 import inquirer from "inquirer";
 const asnwer = await inquirer.prompt([
     { message: "Enter your first number", type: "number", name: "firstname" },
